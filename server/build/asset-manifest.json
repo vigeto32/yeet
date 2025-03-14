@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2bb9b8bd.css",
+    "main.js": "/static/js/main.9e30d623.js",
+    "static/media/menu-music.mp3": "/static/media/menu-music.c65c34ef5af1890219bf.mp3",
+    "static/media/ad.png": "/static/media/ad.3a50f8bbcd328a8c960f.png",
+    "static/media/mon22.png": "/static/media/mon22.deb96590da38673f1b82.png",
+    "static/media/selection.png": "/static/media/selection.3043335a10b5d900e047.png",
+    "static/media/Summer5.png": "/static/media/Summer5.731597ca8550a1bb0962.png",
+    "static/media/mon3.png": "/static/media/mon3.f5dbf5cb272e356d64a1.png",
+    "static/media/Summer3.png": "/static/media/Summer3.1437a5c4f6d7107c6781.png",
+    "static/media/Summer7.png": "/static/media/Summer7.8818bbeed383d3ac1a73.png",
+    "static/media/Settings Button.png": "/static/media/Settings Button.85485cd35fe930e5acb1.png",
+    "static/media/Play Button.png": "/static/media/Play Button.b978a8c40b096e464df5.png",
+    "static/media/Quit Button.png": "/static/media/Quit Button.c6d903835c651780436a.png",
+    "static/media/vince.png": "/static/media/vince.098a4d1fba7d4f6482f6.png",
+    "static/media/background.png": "/static/media/background.bd73b4d6b91064704a84.png",
+    "index.html": "/index.html",
+    "main.2bb9b8bd.css.map": "/static/css/main.2bb9b8bd.css.map",
+    "main.9e30d623.js.map": "/static/js/main.9e30d623.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bb9b8bd.css",
+    "static/js/main.9e30d623.js"
+  ]
+}
